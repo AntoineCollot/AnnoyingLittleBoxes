@@ -1,0 +1,9 @@
+c:\users\lodc\documents\visual studio 2017\Projects\AnnoyingLittleBox\AnnoyingLittleBox\bin\Debug\AnnoyingLittleBox.exe.config
+c:\users\lodc\documents\visual studio 2017\Projects\AnnoyingLittleBox\AnnoyingLittleBox\bin\Debug\AnnoyingLittleBox.exe
+c:\users\lodc\documents\visual studio 2017\Projects\AnnoyingLittleBox\AnnoyingLittleBox\bin\Debug\AnnoyingLittleBox.pdb
+c:\users\lodc\documents\visual studio 2017\Projects\AnnoyingLittleBox\AnnoyingLittleBox\obj\Debug\AnnoyingLittleBox.csprojResolveAssemblyReference.cache
+c:\users\lodc\documents\visual studio 2017\Projects\AnnoyingLittleBox\AnnoyingLittleBox\obj\Debug\AnnoyingLittleBox.Form1.resources
+c:\users\lodc\documents\visual studio 2017\Projects\AnnoyingLittleBox\AnnoyingLittleBox\obj\Debug\AnnoyingLittleBox.Properties.Resources.resources
+c:\users\lodc\documents\visual studio 2017\Projects\AnnoyingLittleBox\AnnoyingLittleBox\obj\Debug\AnnoyingLittleBox.csproj.GenerateResource.Cache
+c:\users\lodc\documents\visual studio 2017\Projects\AnnoyingLittleBox\AnnoyingLittleBox\obj\Debug\AnnoyingLittleBox.exe
+c:\users\lodc\documents\visual studio 2017\Projects\AnnoyingLittleBox\AnnoyingLittleBox\obj\Debug\AnnoyingLittleBox.pdb

@@ -1,0 +1,8 @@
+c:\users\lodc\documents\visual studio 2017\Projects\AnnoyingLittleBox\AnnoyingLittleBox\bin\Release\AnnoyingLittleBox.exe.config
+c:\users\lodc\documents\visual studio 2017\Projects\AnnoyingLittleBox\AnnoyingLittleBox\bin\Release\AnnoyingLittleBox.exe
+c:\users\lodc\documents\visual studio 2017\Projects\AnnoyingLittleBox\AnnoyingLittleBox\bin\Release\AnnoyingLittleBox.pdb
+c:\users\lodc\documents\visual studio 2017\Projects\AnnoyingLittleBox\AnnoyingLittleBox\obj\Release\AnnoyingLittleBox.Form1.resources
+c:\users\lodc\documents\visual studio 2017\Projects\AnnoyingLittleBox\AnnoyingLittleBox\obj\Release\AnnoyingLittleBox.Properties.Resources.resources
+c:\users\lodc\documents\visual studio 2017\Projects\AnnoyingLittleBox\AnnoyingLittleBox\obj\Release\AnnoyingLittleBox.csproj.GenerateResource.Cache
+c:\users\lodc\documents\visual studio 2017\Projects\AnnoyingLittleBox\AnnoyingLittleBox\obj\Release\AnnoyingLittleBox.exe
+c:\users\lodc\documents\visual studio 2017\Projects\AnnoyingLittleBox\AnnoyingLittleBox\obj\Release\AnnoyingLittleBox.pdb
